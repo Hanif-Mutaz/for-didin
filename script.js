@@ -2,32 +2,62 @@ $(document).ready(function () {
     /*
      * Main variables
      */
-    var content = [{
-        title: "Haii Dimass!!",
+     var content = [{
+        title: "Haii Didiinn!!",
         desc: ""
     },
     {
-        title: "",
+        title: "Bagaimana kabarmuu hari inii?",
         desc: ""
     },
     {
-       title: "",
-       desc: ""
+       title: "aku harap kamu masih sempat senyum",
+       desc: "meskipun mungkin dunia lagi berat-beratnya"
     },
     {
-        title:"",
-        desc:""
+        title:"kadang masalah datang bareng-bareng, yaaa???",
+        desc:"terutama yang paling nyentuh: keluarga… orang tua…"
     },
     {
-        title: "",
-        desc: ""
+        title: "rasanya pengen bantu banyak,",
+        desc: "tapi keadaan belum ngasih jalan sepenuhnya"
     },
     {
-        title: "",
-        desc: ""
+        title: "akuu ngerti rasanyaaa",
+        desc: "orang tua masih kerja padahal seharusnya udah bisa istirahat…"
     }, 
     {
-        title: "",
+        title: "tapi tahu nggaaa???",
+        desc: ""
+    }, {
+        title: "bertahan sejauh ini aja, kamuu udah hebat bangettt",
+        desc: ""
+    }, {
+        title: "kamuu mungkin belum nyadarr",
+        desc: "tapi perjuangan kamuu tuh kelihatan dan berartiii"
+    }, {
+        title: "nggaaa harus langsung bisa segalanyaaa,",
+        desc: "cukup terus jalan, satu langkah kecil pun cukupp"
+    }, {
+        title: "aku percaya kamuu bisa, pelan-pelann",
+        desc: "dan aku juga tahu, orang tuamu pasti banggaa"
+    }, {
+        title: "Sooo,",
+        desc: ""
+    }, {
+        title: "jangan terlalu keras ke diri sendiri, yaaa,",
+        desc: ""
+    }, {
+        title: "kamuu nggaa sendiriannn,",
+        desc: ""
+    }, {
+        title: "kalau capekkk...,",
+        desc: "berhenti sebentar itu bukan kalahhh. Itu bagian dari tumbuhhh"
+    }, {
+        title: "aakkuuu di siniii,",
+        desc: ""
+    }, {
+        title: "semangaatt yaaa <3,",
         desc: ""
     }
  ];
